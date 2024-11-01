@@ -209,9 +209,9 @@ function Configurator() {
         </MDBox>
 
         <MDBox mt={3} lineHeight={1}>
-          <MDTypography variant="h6">Sidenav Type</MDTypography>
+          <MDTypography variant="h6">Estilo de navegação</MDTypography>
           <MDTypography variant="button" color="text">
-            Choose between different sidenav types.
+            Escolha entre diferentes tipos de barra lateral
           </MDTypography>
 
           <MDBox
